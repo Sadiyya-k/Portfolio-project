@@ -31,6 +31,7 @@ p {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
+  padding: 160px 20px;
 }
 
 .hero p {
@@ -38,7 +39,6 @@ p {
   font-weight: bold;
   margin: 0;
   color: #272142;
-  padding: 160px 20px;
 }
 
 .hero h2 {
