@@ -77,7 +77,7 @@ p {
   padding: 120px 60px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 800px) {
   h1 {
     font-size: 44px;
     line-height: 2;
