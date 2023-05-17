@@ -106,7 +106,7 @@ p {
 }
 
 .logo {
-  max-width: 150px;
+  max-height: 150px;
 }
 
 nav {
@@ -121,7 +121,20 @@ nav ul {
 nav li {
   display: inline;
   list-style: none;
+  margin-left: 16px;
   line-height: 42px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #272142;
+  transition: all 100ms ease-in-out;
+}
+
+nav a:hover,
+nav li.active a {
+  color: var(--branding-color);
+  text-decoration: none;
 }
 
 @media (max-width: 800px) {
@@ -146,5 +159,9 @@ nav li {
   .project-description {
     padding: 0;
     text-align: center;
+  }
+
+  nav a {
+    font-size: 12px;
   }
 }
