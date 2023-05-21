@@ -87,6 +87,11 @@ p {
   margin: 30px;
 }
 
+/* .certificates {
+  max-width: 100%;
+  display: block;
+} */
+
 .btn-branding {
   background: var(--branding-color);
   border-radius: 4px;
