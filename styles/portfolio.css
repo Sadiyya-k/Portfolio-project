@@ -58,6 +58,17 @@ p {
   font-size: 24px;
 }
 
+.container-wrap {
+  background-image: linear-gradient(
+      rgba(39, 32, 68, 0.6),
+      rgba(39, 32, 68, 0.6)
+    ),
+    url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 27%;
+}
+
 .content-container {
   padding: 60px 20px;
 }
