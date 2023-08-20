@@ -44,6 +44,10 @@ p {
   padding: 80px 20px;
 }
 
+.hero h1 {
+  margin-top: -50px;
+}
+
 .hero h1,
 h2 {
   color: var(--branding-color);
@@ -131,7 +135,7 @@ nav a {
 
 nav a:hover,
 nav li.active a {
-  color: var(--secondary-colorr);
+  color: var(--secondary-color);
   text-decoration: none;
 }
 
