@@ -61,7 +61,10 @@ h2 {
 }
 
 .container-wrap {
-  background-image: url("../images/drew-beamer-kUHfMW8awpE-unsplash\ \(1\).jpg");
+  background-color: #fcf8f3;
+}
+.container-wrap1 {
+  background-image: url(../images/);
   background-repeat: no-repeat;
   background-size: cover;
 }
