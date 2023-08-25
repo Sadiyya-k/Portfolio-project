@@ -55,7 +55,6 @@ img {
 }
 
 .hero h1 {
-  margin-top: -50px;
   color: var(--branding-color);
 }
 
@@ -164,7 +163,7 @@ nav li.active a {
 }
 
 footer {
-  margin-top: 85px;
+  margin-top: -45px;
   padding-bottom: 5px;
   color: #d95799;
 }
