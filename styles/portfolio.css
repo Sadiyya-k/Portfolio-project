@@ -31,7 +31,7 @@ h2 {
 }
 
 h3 {
-  font-size: 48px;
+  font-size: 37px;
 }
 
 h4 {
@@ -101,8 +101,9 @@ img {
 }
 
 .content-container img {
-  width: 75%;
+  width: 70%;
   border-radius: 10px;
+  margin-left: 120px;
 }
 
 .btn-branding {
@@ -171,7 +172,6 @@ nav li.active a {
 }
 
 footer {
-  margin-top: -45px;
   padding-bottom: 5px;
   color: #d95799;
 }
@@ -186,7 +186,7 @@ footer .footer-link a:hover {
 
 footer .contact-box {
   background: var(--secondary-color);
-  padding: 30px 120px;
+  padding: 20px 60px;
   border-radius: 10px;
 }
 
@@ -207,7 +207,7 @@ footer .email-link:hover {
 
 footer .social-links {
   margin-bottom: -20px;
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 footer .social-links a {
