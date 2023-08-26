@@ -7,6 +7,7 @@
 
 body {
   font-family: var(--default-font-family);
+  letter-spacing: 1px;
 }
 
 h1,
@@ -43,6 +44,7 @@ p {
   font-weight: normal;
   font-size: 14px;
   line-height: 30px;
+  letter-spacing: 1px;
 }
 
 img {
@@ -91,10 +93,16 @@ img {
 
 .content p {
   font-size: 14px;
+  line-height: 1.5;
 }
 
 .content {
   margin: 30px;
+}
+
+.content-container img {
+  width: 75%;
+  border-radius: 10px;
 }
 
 .btn-branding {
