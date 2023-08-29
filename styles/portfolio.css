@@ -72,12 +72,12 @@ img {
 }
 
 .content-container {
-  padding: 60px 20px;
+  padding-bottom: 60px;
 }
 
 .content h1 {
-  font-size: 64px;
-  line-height: 80px;
+  font-size: 60px;
+  line-height: 70px;
 }
 
 .content-container h2 {
@@ -103,7 +103,7 @@ img {
 .content-container img {
   width: 70%;
   border-radius: 10px;
-  margin-left: 120px;
+  margin: 50px;
 }
 
 .btn-branding {
