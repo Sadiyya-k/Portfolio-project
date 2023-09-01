@@ -143,6 +143,11 @@ img {
   color: black;
 }
 
+.fa-envelope {
+  padding: 20px;
+  font-size: 25px;
+}
+
 nav {
   padding: 20px 0;
 }
