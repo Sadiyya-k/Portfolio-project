@@ -49,6 +49,7 @@ p {
 
 img {
   border-radius: 10px;
+  width: 100%;
 }
 
 .hero {
@@ -98,12 +99,6 @@ img {
 
 .content {
   margin: 30px;
-}
-
-.content-container img {
-  width: 70%;
-  border-radius: 10px;
-  margin: 50px;
 }
 
 .btn-branding {
@@ -233,7 +228,7 @@ footer .social-links a:hover {
 @media (max-width: 800px) {
   h1 {
     font-size: 44px;
-    line-height: 56px;
+    line-height: 1.5;
   }
 
   h2 {
@@ -254,6 +249,9 @@ footer .social-links a:hover {
     text-align: center;
   }
 
+  .content img {
+    margin: 5px;
+  }
   nav a {
     font-size: 12px;
   }
