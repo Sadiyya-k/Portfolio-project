@@ -55,7 +55,6 @@ img {
   width: 100%;
 }
 
-
 .hero {
   text-align: center;
   padding: 30px 20px;
@@ -146,6 +145,12 @@ img {
 .fa-envelope {
   padding: 25px;
   font-size: 25px;
+  margin-top: -10px;
+}
+
+.email {
+  font-size: 18px;
+  font-family: var(--default-font-family);
 }
 
 nav {
